@@ -4,7 +4,7 @@ var fs = require('fs');
 const ASSETS = [
     'three/build/three.module.js',
     'three/examples/js/controls/OrbitControls.js',
-    'three/examples/js/controls/FirstPersonControls.js',
+    'three/examples/js/controls/PointerLockControls.js',
     'three/examples/js/lights/RectAreaLightUniformsLib.js',
 ];
 
